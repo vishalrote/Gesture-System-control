@@ -30,6 +30,7 @@ some important packages which have OpenCv-python,
 tensorflow, numpy, mediapipe, imutils, scipy, numpy.
 
 A. OPEN CV
+
 Open CV is a library of python which tackle PC vision
 issue. It is used to detect the face which is done using the
 machine learning .It is a very important library and is used
@@ -40,6 +41,7 @@ detection. It also support several type of operating system
 and can be used to detect the face of the animals also.
 
 B. NUMPY
+
 NumPy is the module of the Python. The numpy word
 basically shows Numerical Python and it is utilized. This is
 the module which is basically written in c language and is
@@ -50,6 +52,7 @@ multiply, divide, power etc.
 
 
 C. IMAGE FILTERING -HISTOGRAM
+
 Histogram is a type of graph which represents the
 movement of the pixels power in the portrayal.In this we use
 to filter the images using histogram and convert them into
@@ -58,6 +61,7 @@ Consequently the power of a pixel is in the range [0,255].
 
 
 D. MEDIAPIPE
+
 MediaPipe is a module for processing video, audio and
 several types of related data across platform like Android,
 iOS, web, edge device and several applied ML pipeline.
@@ -70,6 +74,7 @@ recognize the hand gesture and detect the input from it.
  Object Detection and Tracking
 
 CONCLUSION
+
 This project is presenting a program that allows the
 user to perform hand gesture for convenient and easier way
 to control the software .A gesture based volume controller
